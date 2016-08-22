@@ -1,4 +1,4 @@
-name: theworldbaby
+name: 'The World, Baby'
 favicon: null
 layout_spectrum: 0.03322
 typography_spectrum: 0.59268
@@ -22,8 +22,8 @@ color:
     - '#757a7f'
     - '#ff3870'
     - '#f3c780'
-  brandStrength: 0.8367557597812265
+  brandStrength: 0.5625
   lightness: 0.6875
-  saturation: 0.25
+  saturation: 0.1875
   rhythmicContrast: 0.37191032408736646
 purpose: []
